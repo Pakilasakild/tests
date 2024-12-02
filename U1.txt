@@ -1,0 +1,6 @@
+5
+Jonas 13 8.4
+Paulius 14 9.5
+Saulius 12 5.5
+Simas 14 8.7
+Jurgis 15 6.4
